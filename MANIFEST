@@ -22,5 +22,8 @@ MANIFEST			This list of files
 META.yml
 README
 t/00_compile.t
+t/lib/Base.pm
+t/lib/Foo.pm
+t/module.t
 t/pod.t
 t/pod_coverage.t
