@@ -7,4 +7,7 @@ requires 'B::Hooks::EndOfScope';
 test_requires 'Test::More';
 use_test_base;
 auto_include;
+
+repository 'https://github.com/typester/exporter-autoclean-perl';
+
 WriteAll;
